@@ -1,6 +1,16 @@
 ### Hi there 👋
-![Laciel Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacho09&hide=contribs,prs)
 
+🔭 Ph.D. in Physics and Earth Sciences
+❤️ In love with research and coding
+🤖 Robotics enthusiast
+🌱 Currently doing a Postdoc in Statistical Physics
+👯 I’m always available to collaborate, I never have the chance before but I'm willing to 
+
+I'm familiar with:
+- Python
+
+<!--![Laciel Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacho09&hide=contribs,prs)
+-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacho09)](https://github.com/Lacho09/github-readme-stats)
 -->
 <!--
