@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Laciel
 
 - 🔭 Ph.D. in Physics and Earth Sciences
-- ❤️ In love with research and coding
+- ❤️ In love with research and learning
 - 🤖 Robotics enthusiast
 - 🌱 Currently doing a Postdoc in Statistical Physics
 - 👯 I’m always available to collaborate
