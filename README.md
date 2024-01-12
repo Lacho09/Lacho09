@@ -1,6 +1,8 @@
 ### Hi there 👋
+![Laciel Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacho09&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacho09)](https://github.com/Lacho09/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lacho09)](https://github.com/Lacho09/github-readme-stats)
+-->
 <!--
 **Lacho09/Lacho09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
