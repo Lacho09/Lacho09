@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-🔭 Ph.D. in Physics and Earth Sciences
-
-❤️ In love with research and coding
-
-🤖 Robotics enthusiast
-
-🌱 Currently doing a Postdoc in Statistical Physics
-
-👯 I’m always available to collaborate, I never have the chance before but I'm willing to
-
+- 🔭 Ph.D. in Physics and Earth Sciences
+- ❤️ In love with research and coding
+- 🤖 Robotics enthusiast
+- 🌱 Currently doing a Postdoc in Statistical Physics
+- 👯 I’m always available to collaborate, I never have the chance before but I'm willing to
 
 I'm familiar with:
 - Python
