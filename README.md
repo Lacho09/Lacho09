@@ -11,7 +11,7 @@
 ---
 
 I'm familiar with:
-- Python
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--![Laciel Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacho09&hide=contribs,prs)
 -->
