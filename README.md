@@ -3,7 +3,7 @@
 - 🔭 Ph.D. in Physics and Earth Sciences
 - ❤️ In love with research and learning
 - 🤖 Robotics enthusiast
-- 🌱 Currently doing a Postdoc in Statistical Physics
+- 🌱 Currently doing a Postdoc
 - 👯 I’m always available to collaborate
 
 I'm familiar with:
