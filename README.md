@@ -11,7 +11,7 @@ I'm familiar with:
 [![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,py,opencv,matlab,latex,git)](https://skillicons.dev)
 
 ---
-[![linkedin]()][2]
+[![linkedin](https://www.linkedin.com/in/laciel-alonso-llanes/)][2]
 ---
 
 [2]: [http://www.github.com/your_contact_info](https://www.linkedin.com/in/laciel-alonso-llanes/)
