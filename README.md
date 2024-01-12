@@ -7,11 +7,12 @@
 - 👯 I’m always available to collaborate, I never had the chance but I'm willing to
 
 I'm familiar with:
-[![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,py)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,py,opencv,matlab,latex,git)](https://skillicons.dev)
 
+<!--
 [[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
-
+-->
 
 <!--![Laciel Alonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lacho09&hide=contribs,prs)
 -->
