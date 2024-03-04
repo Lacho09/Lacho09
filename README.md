@@ -13,7 +13,7 @@ I'm familiar with:
 
 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ai, machinelearning)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
 ---
