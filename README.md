@@ -9,11 +9,11 @@
 
 I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,raspberrypi,py,opencv,matlab,latex,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,raspberrypi,py,opencv,matlab,latex,git,linux)](https://skillicons.dev)
 
 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,odoo)](https://skillicons.dev)
 
 
 ---
